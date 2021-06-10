@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @reggiemt
+- 👀 I’m interested in basketball analytics, AR/VR, GIS mapping.
+- 🌱 I’m currently learning R through a Johns Hopkins Coursera course.
+- 💞️ I’m looking to collaborate on DFS algorithms, AR/VR applications, novel maps for novel questions..
+- 📫 You can reach me at scott.justin@gmail.com
